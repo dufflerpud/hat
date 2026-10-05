@@ -1,8 +1,8 @@
-# Documentation for a project
-This is a description of the project.
+# Documentation for the hat project
+Web application to pick names out of virtual hat.
 <hr>
 
-<table src="src/*.c src/*.h"><tr><th>No files found</th></tr></table>
+<table src="src/*.cgi src/*.c src/*.h"><tr><th>No files found</th></tr></table>
 
 <hr>
 
@@ -10,6 +10,4 @@ This is a description of the project.
 (No files found)</div>
 
 <hr>
-
-This is the tail end of the document.
 
